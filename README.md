@@ -83,6 +83,7 @@
                         <li>
                             A young, determined hard and smart working person. I believe in task based roles and
                             complete ownership of work.
+                        </li>
                         <li>
                             <span id="course-name">Languages Known:</span>English,Hindi,Marathi
                         </li> 
