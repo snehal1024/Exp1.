@@ -90,8 +90,7 @@
                             complete ownership of work.
                         <li>
                             <span id="course-name">Languages Known:</span>English,Hindi,Marathi
-                        </li>
-                       
+                        </li> 
                     </ul>
                     </p>
                     <h3>Other Information</h3>
@@ -115,7 +114,5 @@
                         knowledge and belief.</p>
     </div>
     <div id="footer"></div>
-
 </body>
-
 </html>
