@@ -1,6 +1,6 @@
 div
 {
-    border-radius: 5px;
+    border-radius: 10px;
     }
 #header
 {
@@ -88,7 +88,7 @@ h3
     }
 table
 {
-    border: 1px dashed black;
+    
     }
 td
 {
