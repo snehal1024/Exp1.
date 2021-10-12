@@ -4,7 +4,7 @@ div
     }
 #header
 {
-    position: fixed;
+
     z-index: 1;
     height:40px;
     width: 98%;
@@ -23,7 +23,7 @@ div
 
 #email{
     float:right;
-    margin-right: 20px;
+    margin-right: 1px;
 	padding-bottom: 10px;
 	font-size: 16px;
 	font-family: Verdana, sans-serif;
@@ -110,6 +110,10 @@ td
 {
     height: 5px;
     }
+#container
+{
+    padding:5px;
+}
 
 #heading
 {
