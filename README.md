@@ -64,7 +64,6 @@
                 C for Beginners
             <li>
                 Core Java   
-        </ul>
         <h3>Technical Skills</h3>
        <p>
         <ul>
