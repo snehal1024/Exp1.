@@ -62,7 +62,7 @@
             <li>C for Beginners</li>
                 
             <li>Core Java</li>
-</ul>  
+    </ul></p>
         <h3>Technical Skills</h3>
        <p>
         <ul>
