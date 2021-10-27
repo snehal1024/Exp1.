@@ -68,21 +68,21 @@
                 <span id="course-name">Core Java
              
         <h3>Technical Skills</h3>
-                    <p>
-                    <ul>
-                        <li>
-                            <span id="course-name">Operating Systems:</span> Windows 7,windows 10, Linux (Ubuntu)
-                        </li>
-                        <li>
-                            <span id="course-name">Programming Skills:</span>HTML, CSS, Python, JavaScript, learning C,Java
-                            and C++
-                        </li>
-                         <li>
-                            A young, determined hard and smart working person. I believe in task based roles and
-                            complete ownership of work.
-                        <li>
-                            <span id="course-name">Languages Known:</span>English,Hindi,Marathi
-                        </li>
+           <p>
+           <ul>
+              <li>
+               <span id="course-name">Operating Systems:</span> Windows 7,windows 10, Linux (Ubuntu)
+                </li>
+                <li>
+               <span id="course-name">Programming Skills:</span>HTML, CSS, Python, JavaScript, learning C,Java
+                   and C++
+               </li>
+               <li>
+                A young, determined hard and smart working person. I believe in task based roles and
+                complete ownership of work.
+                <li>
+                <span id="course-name">Languages Known:</span>English,Hindi,Marathi
+                </li>
  <h3>Other Information</h3>
                     <p>
                     <ul>
