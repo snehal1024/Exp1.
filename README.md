@@ -58,12 +58,11 @@
         <h3>Independent Courses</h3>
         <p>
         <ul>
-            <li>
-                HTML & CSS for Beginners – Web Fundamentals
-            <li>
-                C for Beginners
-            <li>
-                Core Java   
+            <li>  HTML & CSS for Beginners – Web Fundamentals</li>
+            <li>C for Beginners</li>
+                
+            <li>Core Java</li>
+</ul>  
         <h3>Technical Skills</h3>
        <p>
         <ul>
